@@ -1,2 +1,2 @@
-# IUCN-Categories-JSON
-A JSON file with IUCN Red List Categories
+# IUCN Categories JSON
+Useful JSON file to retrieve basic informations form IUCN Red List Categories.
