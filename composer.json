@@ -1,0 +1,25 @@
+{
+	"name": "omni-species/IUCN-Categories-JSON",
+	"description": "Useful JSON file to retrieve basic informations form IUCN Red List Categories.",
+	"keywords": [
+		"IUCN",
+		"RedList",
+		"Conservation",
+		"Threatened",
+		"Species"
+	],
+	"homepage": "https://www.omnispecies.com",
+	"license": "GPL-3.0 License",
+	"authors": [
+		{
+			"name": "Omni Species",
+			"email": "admin@omnispecies.com",
+			"role": "Developer"
+		},
+		{
+			"name": "Felipe Abranches de Araujo Porto",
+			"email": "felipeabranches@gmail.com",
+			"role": "Developer"
+		}
+	]
+}
