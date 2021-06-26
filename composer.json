@@ -1,5 +1,5 @@
 {
-	"name": "omni-species/IUCN-Categories-JSON",
+	"name": "omni-species/iucn-categories-json",
 	"description": "Useful JSON file to retrieve basic informations form IUCN Red List Categories.",
 	"keywords": [
 		"IUCN",
